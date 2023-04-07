@@ -1,0 +1,32 @@
+body{
+   background-color: rgba(34, 34, 34, 0.973); 
+}
+
+p{ 
+    color:white;
+    
+}
+h1{
+    color:white;
+    
+}
+h2{
+    color:white;
+}
+
+ul{
+    color: white;
+    
+}
+a{
+    color: aqua;
+}
+
+ol{
+    color: white;
+    
+}
+li {
+    color: white;
+
+  }
